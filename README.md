@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimwooseong-09&label=Profile%20views&color=0e75b6&style=flat" alt="kimwooseong-09" /> </p>
 
-- 🔭 I’m currently working on [Prject - The Last Heir](https://jet-airedale-058.notion.site/Project-Name-The-Last-Heir-20ed923297628006be3ccd4b42e2e38a)
+- 🔭 I’m currently working on [Project - The Last Heir](https://jet-airedale-058.notion.site/Project-Name-The-Last-Heir-20ed923297628006be3ccd4b42e2e38a)
 
 - 🌱 I’m currently learning **Unity, C#**
 

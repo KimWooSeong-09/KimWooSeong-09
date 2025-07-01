@@ -12,7 +12,6 @@
 
 - 💬 Ask me about **Unity & C# game development**
 
-- 📫 How to reach me **daringluni@gmail.com**
 
 <p align="left">
 </p>

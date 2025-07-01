@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋, I'm KimWooSeong, A developer who develops themselves.</h1>
+<h1 align="left">Hi 👋, I'm KimWooSeong</h1>
 <br>
-<h3 align="left">A passionate game developer from Korea</h3>
+<h3 align="left">A passionate game developer who develops themselves.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimwooseong-09&label=Profile%20views&color=0e75b6&style=flat" alt="kimwooseong-09" /> </p>
 
@@ -45,6 +45,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimwooseong-09&show_icons=true&locale=en&layout=compact" alt="kimwooseong-09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimwooseong-09&show_icons=true&locale=en" alt="kimwooseong-09" /></p>
+
+<p></p>
+
+<br>
 
 <h3 align="left">🤝 Connect with me:</h3>
 

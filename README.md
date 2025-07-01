@@ -12,6 +12,9 @@
 
 - 💬 Ask me about **Unity & C# game development**
 
+<p></p>
+
+<br>
 
 <p align="left">
 </p>
@@ -35,6 +38,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+<p></p>
+
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimwooseong-09&show_icons=true&locale=en&layout=compact" alt="kimwooseong-09" /></p>
 

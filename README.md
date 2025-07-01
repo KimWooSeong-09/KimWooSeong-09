@@ -14,14 +14,6 @@
 
 - 📫 How to reach me **daringluni@gmail.com**
 
-<h3 align="left">🤝 Connect with me:</h3>
-
-<div align="center">
-  <a href="mailto:daringluni@gmail.com"><img src="https://img.shields.io/badge/Gmail-22223b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://daringluni.notion.site"><img src="https://img.shields.io/badge/Notion-22223b?style=for-the-badge&logo=notion&logoColor=white"/></a>
-  <a href="https://instagram.com/K._ws_9"><img src="https://img.shields.io/badge/Instagram-22223b?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div>
-
 <p align="left">
 </p>
 
@@ -31,5 +23,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimwooseong-09&show_icons=true&locale=en&layout=compact" alt="kimwooseong-09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimwooseong-09&show_icons=true&locale=en" alt="kimwooseong-09" /></p>
+
+<h3 align="left">🤝 Connect with me:</h3>
+
+<div align="center">
+  <a href="mailto:daringluni@gmail.com"><img src="https://img.shields.io/badge/Gmail-22223b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://daringluni.notion.site"><img src="https://img.shields.io/badge/Notion-22223b?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://instagram.com/K._ws_9"><img src="https://img.shields.io/badge/Instagram-22223b?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
 
 

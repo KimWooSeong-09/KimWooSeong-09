@@ -12,9 +12,7 @@
 
 - 💬 Ask me about **Unity & C# game development**
 
-<p></p>
-
-<br>
+<p><br></p>
 
 <p align="left">
 </p>
@@ -27,28 +25,20 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🎮 게임 & 엔진
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-</p>
-
 ### 🛠️ 개발 도구
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
-<p></p>
-
-<br>
+<p><br></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimwooseong-09&show_icons=true&locale=en&layout=compact" alt="kimwooseong-09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimwooseong-09&show_icons=true&locale=en" alt="kimwooseong-09" /></p>
 
-<p></p>
-
-<br>
+<p><br></p>
 
 <h3 align="left">🤝 Connect with me:</h3>
 

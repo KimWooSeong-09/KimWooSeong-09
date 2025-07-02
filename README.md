@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm KimWooSeong</h1>
 <br>
-<h3 align="left">A passionate game developer who develops themselves.</h3>
+<h3 align="left">작동하는 코드보다, 이해하는 개발을 지향하는 김우성입니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimwooseong-09&label=Profile%20views&color=0e75b6&style=flat" alt="kimwooseong-09" /> </p>
 

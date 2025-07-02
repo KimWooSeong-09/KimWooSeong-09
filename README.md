@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Unity, C#**
 
-- 👨‍💻 All of my projects are available at [daringluni.notion.site](daringluni.notion.site)
-
 - 💬 Ask me about **Unity & C# game development**
 
 <p><br></p>

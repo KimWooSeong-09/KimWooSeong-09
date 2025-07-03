@@ -8,7 +8,7 @@
 
 <br>
 
-<h3 align="center">🛠️ Skill</h3>
+<h3 align="left">🛠️ Skill</h3>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-22223b?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -19,7 +19,7 @@
 
 <br>
 
-<h3 align="center">🧰 Tool & IDE</h3>
+<h3 align="left">🧰 Tool & IDE</h3>
 <hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-22223b?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -29,18 +29,21 @@
 </div>
 
 <br>
----
 
 ## 📊 GitHub Stats
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kimwooseong-09&show_icons=true&theme=default" alt="Wooseong's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimwooseong-09&layout=compact" alt="Top Langs"/>
 </p>
 
+<br>
+
 ---
 
 ## 🧑‍💻 About Me
+<br>
 
 - 🔭 Portfolio: [Portfolio Link](https://daringluni.notion.site/?pvs=143)
 - 🌱 Field of study: Unity, C#
@@ -52,6 +55,7 @@ Click to check it out!
 ---
 
 ## 📬 To connect
+<br>
 
 <p align="center">
   <a href="mailto:daringluni@gmail.com"><img src="https://img.shields.io/badge/Gmail-22223b?style=for-the-badge&logo=gmail&logoColor=white"/></a>

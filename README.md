@@ -4,6 +4,7 @@
 ---
 
 <h3 align="left">🛠️ Skill</h3>
+<hr>
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-22223b?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-22223b?style=for-the-badge&logo=python&logoColor=white"/>
@@ -12,6 +13,7 @@
 </div>
 
 <h3 align="left">🛠️ Tool & Idle</h3>
+<hr>
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-22223b?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio-22223b?style=for-the-badge&logo=visualstudio&logoColor=white"/>
@@ -44,7 +46,9 @@ Click to check it out!
 ## 📬 To connect
 
 <p align="center">
-  <a href="https://instagram.com/your_instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:daringluni@gmail.com"><img src="https://img.shields.io/badge/Gmail-22223b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://velog.io/@azunox/posts"><img src="https://img.shields.io/badge/Velog-22223b?style=for-the-badge&logo=velog&logoColor=white"/></a>
+  <a href="https://daringluni.notion.site"><img src="https://img.shields.io/badge/Notion-22223b?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://instagram.com/K._ws_9"><img src="https://img.shields.io/badge/Instagram-22223b?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 

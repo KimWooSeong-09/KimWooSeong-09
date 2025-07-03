@@ -8,22 +8,16 @@
   
 ---
 
-## 🛠️ Skill
-
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-</p>
-
-### Tools & IDE
-<p align="left">
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+<h3 align="center">🛠️ Tech Stack</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-22223b?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-22223b?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-22223b?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio-22223b?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-22223b?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-22223b?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-22223b?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
 
 ---
 

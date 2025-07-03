@@ -1,14 +1,15 @@
-<h1 align="left">👋 Hi, I'm KimWooSeong</h1>
+<h1 align="center">👋 Hi, I'm KimWooSeong</h1>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=220&section=header&text=azunox&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=azunox&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
 
-<h3 align="left">작동하는 코드보다, 이해하는 개발을 추구하는 김우성입니다.</h3>
-  
----
+<h3 align="center">작동하는 코드보다, 이해하는 개발을 추구하는 김우성입니다.</h3>
 
-<h3 align="left">🛠️ Skill</h3>
-<hr>
+<br>
+
+<h3 align="center">🛠️ Skill</h3>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-22223b?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-22223b?style=for-the-badge&logo=python&logoColor=white"/>
@@ -16,14 +17,17 @@
   <img src="https://img.shields.io/badge/CSS-22223b?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-<h3 align="left">🛠️ Tool & Idle</h3>
-<hr>
+<br>
+
+<h3 align="center">🧰 Tool & IDE</h3>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-22223b?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio-22223b?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-22223b?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-22223b?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
+
 
 ---
 

@@ -1,8 +1,9 @@
-<h1 align="center">👋 Hi, I'm KimWooSeong</h1>
+<h1 align="left">👋 Hi, I'm KimWooSeong</h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=azunox&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d51,100:000000&height=200&section=header&text=azunox&fontSize=60&fontColor=f0e9d2&animation=fadeIn&fontAlignY=35" />
 </div>
+
 
 <h3 align="center">작동하는 코드보다, 이해하는 개발을 추구하는 김우성입니다.</h3>
 

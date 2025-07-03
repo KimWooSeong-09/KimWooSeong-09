@@ -1,4 +1,8 @@
 <h1 align="left">👋 Hi, I'm KimWooSeong</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=220&section=header&text=azunox&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+</div>
+
 <h3 align="left">작동하는 코드보다, 이해하는 개발을 추구하는 김우성입니다.</h3>
   
 ---

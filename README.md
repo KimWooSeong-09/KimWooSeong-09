@@ -1,7 +1,5 @@
-<h1 align="left">👋 안녕하세요!, 김우성입니다 👨‍💻</h1>
+<h1 align="left">👋 Hi, I'm KimWooSeong</h1>
 <h3 align="left">작동하는 코드보다, 이해하는 개발을 추구하는 김우성입니다.</h3>
-
----
 
 ## 🧑‍💻 About Me
 

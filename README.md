@@ -62,6 +62,6 @@ Click to check it out!
   <a href="mailto:daringluni@gmail.com"><img src="https://img.shields.io/badge/Gmail-22223b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://velog.io/@azunox/posts"><img src="https://img.shields.io/badge/Velog-22223b?style=for-the-badge&logo=velog&logoColor=white"/></a>
   <a href="https://daringluni.notion.site"><img src="https://img.shields.io/badge/Notion-22223b?style=for-the-badge&logo=notion&logoColor=white"/></a>
-  <a href="https://instagram.com/K._ws_9"><img src="https://img.shields.io/badge/Instagram-22223b?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/azunox"><img src="https://img.shields.io/badge/Instagram-22223b?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 

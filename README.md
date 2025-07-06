@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm KimWooSeong</h1>
+<h1 align="left">👋 Hi There</h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d51,100:000000&height=200&section=header&text=azunox&fontSize=60&fontColor=f0e9d2&animation=fadeIn&fontAlignY=35" />

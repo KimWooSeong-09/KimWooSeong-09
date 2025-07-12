@@ -24,7 +24,6 @@
 <hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-22223b?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio-22223b?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-22223b?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-22223b?style=for-the-badge&logo=github&logoColor=white"/>
 </div>

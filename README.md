@@ -46,7 +46,7 @@
 <br>
 
 - 🔭 Portfolio: [Portfolio Link](https://daringluni.notion.site/?pvs=143)
-- 🌱 Field of study: Unity, C#
+- 🌱 Field of study: Unity, C#, Figma
 
 **[The Last Heir](https://github.com/Team-TheLastHeir)**  
 This Project is a narrative-oriented log-like action RPG game.

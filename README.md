@@ -14,8 +14,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-22223b?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-22223b?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-22223b?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-22223b?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
 <br>

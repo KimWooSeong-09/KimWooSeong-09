@@ -29,22 +29,12 @@
 
 <br>
 
-## 📊 GitHub Stats
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimwooseong-09&show_icons=true&theme=default" alt="Wooseong's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimwooseong-09&layout=compact" alt="Top Langs"/>
-</p>
-
-<br>
 
 ---
 
 ## 🧑‍💻 About Me
 <br>
 
-- 🔭 Portfolio: [Portfolio Link](https://daringluni.notion.site/?pvs=143)
 - 🌱 Field of study: Unity, C#
 
 **[The Last Heir](https://github.com/Team-TheLastHeir)**  
@@ -57,7 +47,7 @@ Click to check it out!
 <br>
 
 <p align="center">
-  <a href="mailto:daringluni@gmail.com"><img src="https://img.shields.io/badge/Gmail-22223b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:azunox9@gmail.com"><img src="https://img.shields.io/badge/Gmail-22223b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://velog.io/@azunox/posts"><img src="https://img.shields.io/badge/Velog-22223b?style=for-the-badge&logo=velog&logoColor=white"/></a>
   <a href="https://daringluni.notion.site"><img src="https://img.shields.io/badge/Notion-22223b?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="https://instagram.com/azunox"><img src="https://img.shields.io/badge/Instagram-22223b?style=for-the-badge&logo=instagram&logoColor=white"/></a>

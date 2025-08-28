@@ -29,16 +29,6 @@
 
 <br>
 
-
-## 🧑‍💻 About Me
-<br>
-
-- 🌱 Field of study: Unity, C#
-
-**[The Last Heir](https://github.com/Team-TheLastHeir)**  
-This Project is a narrative-oriented log-like action RPG game.
-Click to check it out!
-
 ---
 
 ## 📬 To connect

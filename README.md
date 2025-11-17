@@ -1,5 +1,7 @@
 <h1 align="left">👋 Hi There</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KimWooSeong-09&label=Profile%20views&color=0e75b6&style=flat" alt="KimWooSeong-09" /> </p>
+
 **팀의 방향을 설계하는 개발자**, 김우성입니다.
 
 팀원의 요구를 곧장 기능으로 옮기지 않습니다.  
